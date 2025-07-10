@@ -1,0 +1,16 @@
+{
+  "name": "super-ai-discord-bot",
+  "version": "1.0.0",
+  "description": "أقوى بوت ذكاء اصطناعي برمجي في ديسكورد",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "ai", "bot", "programming", "support"],
+  "author": "WariorAI",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
